@@ -10,5 +10,5 @@ def find_greater_pair(src)
 end
 
 def total_even_pairs(src)
-  
+  array_3 =344812
 end
