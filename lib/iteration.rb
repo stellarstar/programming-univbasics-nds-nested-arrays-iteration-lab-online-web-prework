@@ -3,8 +3,6 @@ array_1 = [
   "I love pepperoni and sausage on my pizza",
   "I love green olives and green peppers on my pizza",
   "I love onions and pineapple on my pizza"]
-
-
 end
 
 def find_greater_pair(src)
