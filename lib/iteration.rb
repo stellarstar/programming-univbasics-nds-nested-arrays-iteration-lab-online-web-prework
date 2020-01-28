@@ -6,7 +6,7 @@ array_1 = [
 end
 
 def find_greater_pair(src)
-  [array_2 = [[-1, 30, 0, 14, 19]
+  [array_2 = -1, 30, 0, 14, 19]
 end
 
 def total_even_pairs(src)
